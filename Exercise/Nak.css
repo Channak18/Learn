@@ -1,0 +1,36 @@
+body {
+    background: #ccc;
+}
+.Nak {
+    display: flex;
+    justify-content: space-between;
+}
+.card {
+    width: 30%;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+}
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+button {
+    padding: 10px;
+    border: none;
+    color: #fff;
+    border-radius: 35px;
+}
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.btn-green {
+    background: green;
+}
+.btn-teal {
+    background: teal;
+}
+.btn-pink {
+    background: rgb(230, 79, 104);
+}

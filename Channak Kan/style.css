@@ -1,0 +1,29 @@
+h1 {
+    
+}
+
+
+.home {
+    text-decoration: underline;
+    font-family: sans-serif;
+    color: blue;
+}
+.about {
+    text-decoration: underline;
+    font-family: sans-serif;
+    color: blue;
+}
+.contact {
+    text-decoration: underline;
+    font-family: sans-serif;
+    color: blue;
+}
+#A {
+    color: rgb(218, 161, 57);
+}
+#B{
+    color: rgb(218, 161, 57);
+}
+#C {
+    color: rgb(218, 161, 57);
+}

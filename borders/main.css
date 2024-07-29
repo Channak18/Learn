@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 100vp;
+    background-color: #bde5d2;
+    font-family: 'Poppind', sans-serif;
+}
+.form-box {
+    background-color: white;
+    box-shadow: 0 0 10px rgb(49, 105, 49);
+    padding: 15px;
+    border-radius: 8px;
+    width: 500px;
+}
+.name {
+    text-align: center;
+    color: rgb(12, 59, 12);
+    font-weight: 700;
+}
+div {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 17px;
+    color: green;
+    font-weight: 600;
+    cursor: pointer;    
+}
+input
